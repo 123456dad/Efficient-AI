@@ -4,5 +4,7 @@
 
 
 
-Both [Slides(22)](./Slides 22) ,[Slides(23)](./Slides 23)and labs(23) are included.
+Both [Slides22](./Slides22/) ,[Slides23](./Slides23/)and [labs(23)](./Labs/) are included.
+
+
 More details refer to [here](https://hanlab.mit.edu/courses/2023-fall-65940)
